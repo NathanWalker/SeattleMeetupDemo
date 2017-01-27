@@ -1,0 +1,30 @@
+{
+  "name": "nativescript-theme-core",
+  "version": "1.0.2",
+  "description": "Telerik NativeScript Core Theme",
+  "author": {
+    "name": "Telerik",
+    "email": "support@telerik.com"
+  },
+  "homepage": "https://www.nativescript.org",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NativeScript/theme.git"
+  },
+  "nativescript": {
+    "platforms": {
+      "ios": "2.4.0",
+      "android": "2.4.0"
+    }
+  },
+  "readme": "# NativeScript Theme: Core\r\n\r\nCore NativeScript theme including a light (default), dark, and (11 additional: aqua, blue, brown, forest, grey, lemon, lime, orange, purple, ruby, sky) color schemes for iOS and Android.\r\n\r\n## Install\r\n\r\n`npm install nativescript-theme-core --save`\r\n\r\n## Documentation\r\n\r\nhttp://docs.nativescript.org/ui/theme\r\n\r\n## Preview\r\n\r\n![Multiple Platforms](http://docs.nativescript.org/img/theme/color-schemes-all.png)\r\n\r\n## License\r\n\r\nThis is Licensed under the Apache License ",
+  "readmeFilename": "readme.md",
+  "bugs": {
+    "url": "https://github.com/NativeScript/theme/issues"
+  },
+  "_id": "nativescript-theme-core@1.0.2",
+  "scripts": {},
+  "_shasum": "712e80b702316abaa4e7d738825573f9e6bae658",
+  "_from": "nativescript-theme-core@>=1.0.2 <1.1.0"
+}

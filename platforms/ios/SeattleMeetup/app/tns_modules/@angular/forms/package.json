@@ -1,0 +1,51 @@
+{
+  "name": "@angular/forms",
+  "version": "2.4.3",
+  "description": "Angular - directives and services for creating forms",
+  "main": "bundles/forms.umd.js",
+  "module": "index.js",
+  "typings": "index.d.ts",
+  "author": {
+    "name": "angular"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "@angular/core": "2.4.3",
+    "@angular/common": "2.4.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angular/angular.git"
+  },
+  "bugs": {
+    "url": "https://github.com/angular/angular/issues"
+  },
+  "homepage": "https://github.com/angular/angular#readme",
+  "_id": "@angular/forms@2.4.3",
+  "scripts": {},
+  "_shasum": "0b4f59b8074e3d0fe987781e0f2af1ca1eec212b",
+  "_from": "@angular/forms@2.4.3",
+  "_resolved": "https://registry.npmjs.org/@angular/forms/-/forms-2.4.3.tgz",
+  "_npmVersion": "3.8.3",
+  "_nodeVersion": "5.10.1",
+  "_npmUser": {
+    "name": "angular",
+    "email": "angular-core+npm@google.com"
+  },
+  "dist": {
+    "shasum": "0b4f59b8074e3d0fe987781e0f2af1ca1eec212b",
+    "tarball": "https://registry.npmjs.org/@angular/forms/-/forms-2.4.3.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "angular",
+      "email": "angular-core+npm@google.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/forms-2.4.3.tgz_1484172146389_0.6115994518622756"
+  },
+  "directories": {},
+  "readme": "ERROR: No README data found!"
+}

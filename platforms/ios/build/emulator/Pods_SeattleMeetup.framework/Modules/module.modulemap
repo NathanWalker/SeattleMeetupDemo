@@ -1,0 +1,6 @@
+framework module Pods_SeattleMeetup {
+  umbrella header "Pods-SeattleMeetup-umbrella.h"
+
+  export *
+  module * { export * }
+}
