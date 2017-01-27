@@ -1,5 +1,6 @@
 hooks
 lib
 node_modules
+platforms
 *.js
 *.map
